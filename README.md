@@ -11,7 +11,9 @@ A modern and responsive Adidas landing page built using HTML, CSS, and JavaScrip
 - Mobile-friendly
 
 ## Project Preview
+![adidas preview](adidas_preview1.png)
 
+![adidas preview](adidas_preview2.png)
 
 ## 🛠️ Technologies Used
 
