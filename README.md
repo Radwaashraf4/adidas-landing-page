@@ -10,6 +10,9 @@ A modern and responsive Adidas landing page built using HTML, CSS, and JavaScrip
 - Clean layout
 - Mobile-friendly
 
+## Project Preview
+
+
 ## 🛠️ Technologies Used
 
 - HTML5
